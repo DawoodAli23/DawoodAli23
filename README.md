@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DawoodAli23
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning react js and express
+- 🌱 I’m currently working react js ,express/graphql
 - 📫 How to reach me : you can email me at dawood.ali.9999@gmail.com
 
 <!---
