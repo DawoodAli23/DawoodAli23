@@ -2,6 +2,8 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently working as Full Stack developer
 - 📫 How to reach me : you can email me at dawood.ali.9999@gmail.com
+- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawoodali23)](https://github.com/anuraghazra/github-readme-stats)
 
 !(https://github-readme-stats.vercel.app/api?username=dawoodali23&count_private=true)
 <!---
