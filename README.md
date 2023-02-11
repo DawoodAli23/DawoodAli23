@@ -1,4 +1,4 @@
 -  Hi, I’m @DawoodAli23
 -  I’m always learning
--  I’m currently working as Full Stack Engineer
+-  I’m currently working as Full Stack Developer working with node js and react js
 -  How to reach me : you can email me at dawood.ali.9999@gmail.com
